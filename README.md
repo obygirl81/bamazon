@@ -26,4 +26,4 @@ User must run npm install to download all of the required node modules.
 Run node bamazonCustomer.js in your CLI/Terminal and follow the prompts.
 Run node bamazonManager.js in your CLI/Terminal and follow the prompts.
 Run node bamazonSupervisor.js in your CLI/Terminal and follow the prompts.
-Here is the link to check out this application: 
+Here is the link to check out this application: https://github.com/obygirl81/bamazon
