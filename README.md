@@ -2,13 +2,13 @@
 Bamazon
 This is a command-line web application for an Amazon-like storefront. It uses Node.js & MySQL to take in orders from customers and deplete stock from the store's inventory. This app will update inventory, it will track the individual product sales, and the total profits for each department. User at the manager level can check the low inventory, add to inventories, and add new products. Userrs at the supervisor level can view the products, the overhead costs, and the total profits for each department. Users can also create a new department.
 
-Technologies utilized in this application are:
-Git
-GitHub
-JavaScript
-MySQL Workbench
-Node.js
-Node packages: inquirer, mysql, and cli-table
+### Technologies utilized in this application are:
+* Git
+* GitHub
+* JavaScript
+* MySQL Workbench
+* Node.js
+* Node packages: inquirer, mysql, and cli-table
 
 How to Use this Application:
 
@@ -26,4 +26,13 @@ User must run npm install to download all of the required node modules.
 Run node bamazonCustomer.js in your CLI/Terminal and follow the prompts.
 Run node bamazonManager.js in your CLI/Terminal and follow the prompts.
 Run node bamazonSupervisor.js in your CLI/Terminal and follow the prompts.
-Here is the link to check out this application: 
+
+### Link
+Here is the link to check out this application: https://github.com/obygirl81/bamazon
+
+### Screenshot
+##### Homepage
+![Screenshot of home page](https://github.com/obygirl81/bamazon/blob/master/Screenshots/Screen%20Shot%202019-09-08%20at%2011.04.36%20PM.png)
+
+### Author
+* Obiageli Ogbutor
